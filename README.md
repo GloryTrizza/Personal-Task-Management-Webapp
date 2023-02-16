@@ -10,4 +10,4 @@ This project is a web application for personal task management. It is built usin
 
 
 ## Conclusion
-This project provides a simple but effective task management system for personal use. By using the Flask web framework, the application is lightweight and easy to use. With its user registration and task management features, the Personal Task Management Webapp provides a convenient way for users to manage their to-do lists.
+This project provides a simple but effective task management system for personal use. By using the React web framework, the application is lightweight and easy to use. With its user registration and task management features, the Personal Task Management Webapp provides a convenient way for users to manage their to-do lists.
